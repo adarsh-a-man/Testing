@@ -2,5 +2,7 @@ This is folder 1 file 1
 Change
 New Line from local
 changeee------------------
-This is the new change
+This is the new change. New change
 new change
+New change 2
+
